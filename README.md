@@ -1,47 +1,75 @@
-☕ Meus Estudos em Java
+📚 Estudos em Java
 
-Bem-vindo ao meu cantinho de estudos em Java 🚀
-Aqui você vai jogar tudo o que eu aprendo: exercícios, miniprojetos, testes malucos e anotações que podem ou não fazer sentido kkk.
+Repositório dedicado aos meus estudos de Java , contendo exercícios, exemplos de código e pequenos projetos desenvolvidos durante minha prática.
 
-📂 O que você vai achar por aqui
+🚀 Objetivos
 
-Exercícios → coisas básicas e interessantes para fixar o conteúdo
+Aprender a sintaxe e os fundamentos da linguagem Java.
 
-Projetos → umas ideias simples que você colocará na prática
+Praticar programação orientada a objetos (POO).
 
-Anotações → resumos e comentários que eu mesmo entendo (ou pelo menos tento 😅)
+Criar pequenos projetos para consolidar o aprendizado.
 
-🚀 O que já estudei / tô estudando
+Documentar minha evolução ao longo do tempo.
 
-Variáveis ​​e tipos de dados
+📂 Estrutura do Repositório
+📦 java-estudos
+ ┣ 📂 fundamentos
+ ┃ ┣ 📜 HelloWorld.java
+ ┃ ┣ 📜 Variaveis.java
+ ┃ ┗ 📜 Operadores.java
+ ┣ 📂 poo
+ ┃ ┣ 📜 Main.java
+ ┃ ┗ 📜 Carro.java
+ ┣ 📂 colecoes
+ ┃ ┗ 📜 ListaExemplo.java
+ ┣ 📂 projetos
+ ┃ ┗ 📜 calculadora
+ ┃    ┣ 📜 Main.java
+ ┃    ┗ 📜 Calculadora.java
+ ┣ 📜 README.md
 
-Estruturas de decisão ( if, else, switch)
+🛠️ Tecnologias Utilizadas
 
-Estruturas de reprodução ( for, while, do while)
+Java SE (JDK 17+)
 
-Orientação a Objetos (POO)
+IntelliJ IDEA (IDE principal)
 
-Classes e Objetos
+Git e GitHub para versionamento
 
-Construtores
+📖 Tópicos de Estudo
 
-Herança
+ Sintaxe básica (variáveis, operadores, condicionais, loops)
 
-Polimorfismo
+ Métodos e funções
 
-E vem muito mais por aí...
+ Programação Orientada a Objetos (POO)
 
-🎯 Objetivo
+ Herança, Polimorfismo e Interfaces
 
-Aprendendo Java de um jeito tranquilo, praticando bastante e registrando minha evolução aqui.
-Se alguém cair nesse repositório e tirar proveitos, melhor ainda ✌️
+ Coleções (Lista, Conjunto, Mapa)
 
-🔗 Links que você deve usar
+ Tratamento de exceções
 
-Documentação oficial do Java
+ Entrada/Saída (I/O) e arquivos
 
-W3Schools - Java
+ Projetos práticos
 
-[Curso que tô acompanhando (se tiver um específico, coloca aqui!)]
+✅ Como executar os exemplos
 
-👉 Esse repositório é mais um diário de estudos do que um projeto pronto. Então não espere código perfeito, mas sim evolução constante 🚀
+Clone ou repositório:
+
+git clone https://github.com/seu-usuario/java-estudos.git
+
+
+Abra no IntelliJ IDEA ou Eclipse.
+
+Compile e execute a classe desejada:
+
+javac NomeDaClasse.java
+java NomeDaClasse
+
+✍️ Autor
+
+Feito com dedicação por [Seu Nome] 🚀
+📌 Este repositório é direcionado exclusivamente para fins de aprendizagem .
