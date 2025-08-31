@@ -52,7 +52,7 @@ Compile e execute a classe desejada:
 javac NomeDaClasse.java
 java NomeDaClasse
 
-✍️ Autor
+✍️ Autor João G. D. Morinari
 
 Feito com dedicação por [Seu Nome] 🚀
 📌 Este repositório é direcionado exclusivamente para fins de aprendizagem .
