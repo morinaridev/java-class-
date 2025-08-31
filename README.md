@@ -12,23 +12,6 @@ Criar pequenos projetos para consolidar o aprendizado.
 
 Documentar minha evolução ao longo do tempo.
 
-📂 Estrutura do Repositório
-📦 java-estudos
- ┣ 📂 fundamentos
- ┃ ┣ 📜 HelloWorld.java
- ┃ ┣ 📜 Variaveis.java
- ┃ ┗ 📜 Operadores.java
- ┣ 📂 poo
- ┃ ┣ 📜 Main.java
- ┃ ┗ 📜 Carro.java
- ┣ 📂 colecoes
- ┃ ┗ 📜 ListaExemplo.java
- ┣ 📂 projetos
- ┃ ┗ 📜 calculadora
- ┃    ┣ 📜 Main.java
- ┃    ┗ 📜 Calculadora.java
- ┣ 📜 README.md
-
 🛠️ Tecnologias Utilizadas
 
 Java SE (JDK 17+)
