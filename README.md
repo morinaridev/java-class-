@@ -53,5 +53,5 @@ javac NomeDaClasse.java
 java NomeDaClasse
 
 
-Feito com dedicação por João Guilherme Morinari 🚀
+Feito com dedicação por João Guilherme Domingues Morinari 🚀
 📌 Este repositório é direcionado exclusivamente para fins de aprendizagem .
